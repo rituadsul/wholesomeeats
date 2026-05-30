@@ -1074,7 +1074,7 @@
       </div>
       <div class="hero-stats">
         <div class="hero-stat">
-          <div class="hero-stat-val">4.7★</div>
+          <div class="hero-stat-val">4.8★</div>
           <div class="hero-stat-label">Avg Rating</div>
         </div>
         <div class="hero-stat">
