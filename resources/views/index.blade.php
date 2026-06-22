@@ -25,7 +25,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;600;700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/jpeg" href="images/logo.jpg">
-<link rel="apple-touch-icon" href="images/ramen.png?v=2">
+<link rel="apple-touch-icon" href="images/logo.jpg">
 <meta name="format-detection" content="telephone=no">
 <style>
   :root{
