@@ -11,19 +11,22 @@
 <meta property="og:site_name" content="Wholesome Eats">
 <meta property="og:title" content="Wholesome Eats — Parel, Mumbai">
 <meta property="og:description" content="Honest, wholesome food made fresh in Parel, Mumbai. Snacks, momos, pasta, ramen & refreshing drinks. Order on Zomato or Swiggy, or call 7977196074.">
-<meta property="og:image" content="https://wholesomeeats.in/images/ramen.png?v=2">
+<meta property="og:image" content="https://YOUR-DOMAIN.com/images/ramen.png">
 <meta property="og:image:width" content="1080">
 <meta property="og:image:height" content="1350">
-<meta property="og:url" content="https://wholesomeeats.in/">
+<meta property="og:url" content="https://YOUR-DOMAIN.com/">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Wholesome Eats — Parel, Mumbai">
 <meta name="twitter:description" content="Honest, wholesome food made fresh in Parel, Mumbai. Snacks, momos, pasta, ramen & refreshing drinks.">
-<meta name="twitter:image" content="https://wholesomeeats.in/images/ramen.png?v=2">
+<meta name="twitter:image" content="https://YOUR-DOMAIN.com/images/ramen.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;600;700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/jpeg" href="images/logo.jpg">
+<link rel="apple-touch-icon" href="images/logo.jpg">
+<meta name="format-detection" content="telephone=no">
 <style>
   :root{
     --green:#27643B;
@@ -69,7 +72,7 @@
     transition:transform .15s ease;
   }
   .nav-cta a:hover{ transform:translateY(-1px); }
-  .nav-call{ background:var(--green); color:#fff; }
+  .nav-call{ background:var(--green); color:#fff; display:inline-flex; align-items:center; gap:6px; }
   .nav-call:hover{ background:var(--green-dark); }
 
   /* HERO */
@@ -231,7 +234,7 @@
     display:block; color:rgba(255,255,255,0.85); text-decoration:none; font-size:0.88rem; margin-bottom:0.6rem;
   }
   .footer-col a:hover{ color:#fff; }
-  .lic{ font-size:0.72rem; color:rgba(255,255,255,0.45); margin-top:1.6rem; text-align:center; }
+  .lic{ font-size:0.72rem; color:rgba(255,255,255,0.6); margin-top:1.6rem; text-align:center; }
 
   @media (max-width:760px){
     .hero-inner{ grid-template-columns:1fr; }
@@ -259,7 +262,7 @@
       </div>
     </a>
     <div class="nav-cta">
-      <a href="tel:+917977196074" class="nav-call">📞 7977196074</a>
+      <a href="tel:+917977196074" class="nav-call"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>7977196074</a>
     </div>
   </div>
 </nav>
@@ -413,7 +416,7 @@
     </div>
     <div class="footer-col">
       <h4>Contact</h4>
-      <a href="tel:+917977196074">📞 7977196074</a>
+      <a href="tel:+917977196074"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px; margin-right:4px;"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>7977196074</a>
       <p>Parel, Mumbai</p>
     </div>
     <div class="footer-col">
@@ -422,7 +425,7 @@
       <a href="https://www.swiggy.com/menu/1256415?source=sharing" target="_blank" rel="noopener">Swiggy →</a>
     </div>
   </div>
-  <div class="lic">Lic. No. 21525003000849 · © 2026 Wholesome Eats</div>
+  <div class="lic">FSSAI Lic. No. <span style="color:#fff !important;">21525003000849</span> · © 2026 Wholesome Eats</div>
 </footer>
 
 </body>
