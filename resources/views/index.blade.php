@@ -11,16 +11,16 @@
 <meta property="og:site_name" content="Wholesome Eats">
 <meta property="og:title" content="Wholesome Eats — Parel, Mumbai">
 <meta property="og:description" content="Honest, wholesome food made fresh in Parel, Mumbai. Snacks, momos, pasta, ramen & refreshing drinks. Order on Zomato or Swiggy, or call 7977196074.">
-<meta property="og:image" content="https://YOUR-DOMAIN.com/images/ramen.png">
+<meta property="og:image" content="https://wholesomeeats.in/images/ramen.png">
 <meta property="og:image:width" content="1080">
 <meta property="og:image:height" content="1350">
-<meta property="og:url" content="https://YOUR-DOMAIN.com/">
+<meta property="og:url" content="https://wholesomeeats.in/">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Wholesome Eats — Parel, Mumbai">
 <meta name="twitter:description" content="Honest, wholesome food made fresh in Parel, Mumbai. Snacks, momos, pasta, ramen & refreshing drinks.">
-<meta name="twitter:image" content="https://YOUR-DOMAIN.com/images/ramen.png">
+<meta name="twitter:image" content="https://wholesomeeats.in/images/ramen.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;600;700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
